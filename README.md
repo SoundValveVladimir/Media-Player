@@ -1,6 +1,5 @@
-# SoundValve Project
+# The hobbyist SoundValve Project
 # Python media player with visualization
-# The hobbyist project
 
 ## Description
 This is a media player project.  
