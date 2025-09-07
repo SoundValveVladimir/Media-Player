@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "SoundValve", "SoundValve.pyproj", "{26642989-09AA-409E-A288-E8DDA2F4BFA7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Элементы решения", "Элементы решения", "{DE247EB0-65F2-439E-99A3-B9B68E2EF4C9}"
+	ProjectSection(SolutionItems) = preProject
+		track_manager.py = track_manager.py
+		WaveformWidget.py = WaveformWidget.py
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{26642989-09AA-409E-A288-E8DDA2F4BFA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26642989-09AA-409E-A288-E8DDA2F4BFA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FEC01507-C09B-4A38-921F-9D5F2D73AD18}
+	EndGlobalSection
+EndGlobal

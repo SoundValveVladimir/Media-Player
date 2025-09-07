@@ -1,0 +1,9 @@
+{
+    "play_pause": "media_play_pause",
+    "next_track": "media_next",
+    "prev_track": "media_previous",
+    "stop": "media_stop",
+    "volume_up": "page_up",
+    "volume_down": "page_down",
+    "full_screen": "f11"
+}
